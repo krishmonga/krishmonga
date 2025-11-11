@@ -2,11 +2,11 @@
 
 # 👨‍💻 Krish Monga
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+AI+Engineer;IoT+Innovator+%7C+Tech+Entrepreneur;Building+Intelligence+That+Matters" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&lines=Director+%26+COO+%40+Gratify+Ventures;Full+Stack+Developer+%7C+AI+Engineer;IoT+Innovator+%7C+Tech+Entrepreneur;Building+Intelligence+That+Matters" alt="Typing Animation" />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://portfolio-2u7v.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-monga-8b397a2a8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishmonga21667@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishmonga)
@@ -19,7 +19,7 @@
 
 ```typescript
 const krish = {
-    role: "Director & CMO @ Gratify Ventures",
+    role: "Director & COO @ Gratify Ventures",
     location: "India 🇮🇳",
     education: "Computer Science Student",
     passion: ["AI/ML", "IoT", "Full Stack Development"],
@@ -170,11 +170,10 @@ const krish = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishmonga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=krishmonga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishmonga&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmonga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishmonga&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmonga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="48%" />
 
 </div>
 
@@ -187,7 +186,7 @@ const krish = {
 ## 🎖️ Achievements & Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏢_Director_&_CMO-Gratify_Ventures-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏢_Director_&_COO-Gratify_Ventures-00D9FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎓_Computer_Science-Student-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀_IoT_Innovation-Smart_Dustbin-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖_AI_Research-Cyberbullying_Detection-9C27B0?style=for-the-badge" />
@@ -216,7 +215,7 @@ const krish = {
 graph LR
     A[Student] --> B[Developer]
     B --> C[Entrepreneur]
-    C --> D[Director @ Gratify]
+    C -->     D[Director & COO @ Gratify]
     D --> E[Tech Innovator]
     
     style A fill:#FF6B6B
@@ -241,8 +240,8 @@ graph LR
 <a href="https://github.com/krishmonga">
   <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://twitter.com/yourusername">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://portfolio-2u7v.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br><br>
@@ -253,28 +252,6 @@ graph LR
 
 ---
 
-<div align="center">
-
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-  
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishmonga/krishmonga/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishmonga/krishmonga/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krishmonga/krishmonga/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -283,18 +260,6 @@ graph LR
 
 <img src="https://komarev.com/ghpvc/?username=krishmonga&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
+</div>
+
 <br>
-
-![](https://hit.yhype.me/github/profile?user_id=krishmonga)
-
-</div>
-
----
-
-<div align="center">
-
-**✨ "Building the bridge between intelligence and impact — one commit at a time." ✨**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💡+Innovation+%7C+🌍+Impact+%7C+🚀+Technology;Made+with+❤️+by+Krish+Monga" alt="Footer" />
-
-</div>
