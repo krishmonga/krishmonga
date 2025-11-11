@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Krish Monga</h1>
 
 <p align="center">
-🚀 <b>Director & CoO at Gratify Ventures Pvt. Ltd.</b> | 💻 <b>Full Stack Developer</b> | 🤖 <b>AI & IoT Innovator</b>  
+🚀 <b>Director & COO at Gratify Ventures Pvt. Ltd.</b> | 💻 <b>Full Stack Developer</b> | 🤖 <b>AI & IoT Innovator</b>  
 </p>
 
 <p align="center">
