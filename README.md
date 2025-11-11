@@ -1,99 +1,120 @@
 <!-- PROFILE README: krishmonga/krishmonga -->
 
-<h1 align="center">👋 Hi, I'm Krish Monga</h1>
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#58a6ff;">Krish Monga</span>
+</h1>
 
 <p align="center">
-🚀 <b>Director & COO at Gratify Ventures Pvt. Ltd.</b> | 💻 <b>Full Stack Developer</b> | 🤖 <b>AI & IoT Innovator</b>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+IoT+Innovator;Director+%40+Gratify+Ventures;Building+Tech+that+Serves+People+%26+Planet" alt="Typing SVG" />
 </p>
 
 <p align="center">
-I love turning ideas into real-world technology — from AI-powered Smart Bins to real-time bus tracking systems.  
-Currently exploring Agentic AI, n8n automation, and the future of connected IoT ecosystems.  
+💡 <b>Turning bold ideas into intelligent systems that connect, automate, and create impact.</b>  
 </p>
 
 ---
 
-### 🧩 **About Me**
+### 🧭 **About Me**
 
-- 🎓 Computer Science Student & Tech Builder  
-- 🧠 Passionate about **AI, IoT, and automation workflows**  
-- 🏢 Building at **Gratify Ventures**, focused on sustainable & smart tech  
-- 🌱 Currently learning **Agentic AI** and **workflow automation (n8n)**  
-- 💬 Ask me about **MERN Stack**, **AI Integrations**, and **IoT projects**  
-- 📫 Reach me at **[krishmonga21667@gmail.com](mailto:krishmonga21667@gmail.com)**  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/krish-monga-8b397a2a8)
+I’m **Krish Monga**, a **Computer Science student**, **entrepreneur**, and **builder** passionate about crafting technology that solves real problems.  
+
+As the **Director & COO of Gratify Ventures Pvt. Ltd.**, I blend innovation with sustainability — developing solutions that make cities smarter and communities greener.  
+
+I love working at the intersection of **AI, IoT, and human-centered design** — whether that’s creating intelligent hardware, scalable full-stack systems, or ethical AI solutions.
 
 ---
 
 ### 🚀 **Featured Projects**
 
-#### 🚌 [NextBus](https://github.com/krishmonga/nextbus)
-A real-time bus tracking and schedule platform for JUIT and local buses.  
-**Tech Stack:** React.js, Node.js, Express, MongoDB, Google Maps API  
+#### 🚌 [BNextBus](https://github.com/krishmonga/nextbus)
+Your ride, always on time.  
+A **real-time bus tracking and scheduling platform** built for JUIT and local routes, syncing web and mobile experiences seamlessly.  
+
+**Tech Stack:** React.js · Node.js · Express · MongoDB · Google Maps API  
 - User & Driver authentication  
-- Live tracking before departure time  
-- Role-based access & feedback form  
-- Unified data source for web & mobile apps  
+- Location sharing till departure  
+- Role-based dashboards  
+- Feedback & timing prediction  
+
+---
+
+#### ♻️ [Trash2Treasure (Gratify Smart Dustbin)](https://github.com/GratifyVentures)
+A **smart IoT bin** that merges **AI waste recognition**, **digital advertising**, and **reward systems** — turning sustainability into engagement.  
+
+**Built with:** Raspberry Pi · Camera Module · Servo Motors · OpenCV · Cloud APIs  
+- Categorizes waste (biodegradable / recyclable / misc) via ML model  
+- Displays dynamic ads  
+- Rewards users for correct disposal  
+- Data-driven dashboard for advertisers and municipalities  
+
+🧩 *Developed under* **Gratify Ventures Pvt. Ltd.**
+
+---
+
+#### 🤖 [Cyberbullying Detection (ML Research Project)]()
+A **machine learning model** that detects and classifies cyberbullying in social media posts using NLP and embeddings.  
+
+**Dataset:** [Kaggle – Cyberbullying Classification (47k tweets)]  
+**Methods:** Tri-View Hybrid Fusion — TF-IDF + DeBERTa + Psycholinguistic PCA  
+**Goal:** Enhance accuracy & fairness in detecting harmful online content  
+
+> *Building responsible AI that makes the internet a safer space.*
 
 ---
 
 #### 🧠 [AgentSync](https://github.com/krishmonga/AgentSync)
-A full-stack agent management system built with the MERN stack.  
-**Features:**  
-- Admin JWT authentication  
-- Agent creation & management  
-- CSV/XLSX upload & automatic list distribution  
-- MongoDB backend with Express APIs  
+A **full-stack MERN application** for managing agents, automating list uploads, and distributing tasks fairly.  
+
+**Tech Stack:** MongoDB · Express.js · React.js · Node.js  
+- JWT-based Admin Login  
+- Dynamic agent creation & management  
+- Smart list parsing from CSV/XLSX  
+- Automated data distribution across agents  
 
 ---
 
-#### ♻️ Gratify Smart Dustbin (Trash2Treasure)
-An **AI-powered IoT Smart Bin** integrating waste segregation, digital advertising, and user engagement.  
-**Core Features:**  
-- Smart waste categorization via camera & ML model  
-- Reward-based disposal system  
-- Cloud dashboard for ad management & analytics  
-- Designed using Raspberry Pi, camera module & servo motors  
+### ⚙️ **My Toolbox**
 
----
-
-### 🧰 **Tech Stack**
-
-| Domain | Tools & Technologies |
-|--------|-----------------------|
+| Domain | Technologies I Work With |
+|--------|---------------------------|
 | **Frontend** | React.js, Next.js, HTML, CSS, JavaScript |
 | **Backend** | Node.js, Express.js, MongoDB, JWT Auth |
-| **AI / ML** | Python, TensorFlow, OpenCV |
+| **AI / ML** | Python, TensorFlow, Scikit-learn, DeBERTa, OpenCV |
 | **IoT / Hardware** | Raspberry Pi, ESP32, UWB Modules |
-| **Dev Tools** | Git, VS Code, Postman, Figma |
+| **Automation** | n8n, APIs, Webhooks |
+| **Design & Tools** | Figma, Postman, VS Code, Git |
 
 ---
 
-### 📊 **GitHub Stats**
+### 🌱 **What I’m Exploring**
+- Agentic AI and automation workflows  
+- Ethical AI for social media moderation  
+- Scalable IoT ecosystems  
+- Cloud-based ad intelligence for hardware devices  
+
+---
+
+### 💬 **Let’s Connect**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishmonga&show_icons=true&theme=tokyonight" alt="Krish's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmonga&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <a href="https://www.linkedin.com/in/krish-monga-8b397a2a8">
+    <img src="https://img.shields.io/badge/LinkedIn-Krish%20Monga-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:krishmonga21667@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Krish%20Monga-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
 
-### 🏆 **Achievements & Contributions**
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishmonga&theme=onedark&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishmonga&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=krishmonga&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-### 🌍 **Connect With Me**
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/krish-monga-8b397a2a8"><img src="https://img.shields.io/badge/LinkedIn-Krish%20Monga-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:krishmonga21667@gmail.com"><img src="https://img.shields.io/badge/Email-krishmonga21667%40gmail.com-red?style=flat-square&logo=gmail"></a>
+✨ <i>"Building the bridge between intelligence and impact — one project at a time."</i>  
+<br>— <b>Krish Monga</b>
 </p>
-
----
-
-⭐ **"Technology is most powerful when it serves people and the planet."**  
-– *Krish Monga*
